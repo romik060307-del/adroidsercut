@@ -1,0 +1,7 @@
+name = "assistive-ai-gateway"
+main = "src/index.js"
+compatibility_date = "2026-11-16"
+workers_dev = true
+
+# API credentials are configured with `wrangler secret put`.
+# Never put GEMINI_API_KEY or DEEPSEEK_API_KEY in this file.
